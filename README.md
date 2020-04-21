@@ -1,4 +1,4 @@
 # Metal-Furnance-Hackathon
 
 
-![](leaderboard.jpg)
+![](metal.jpg)
